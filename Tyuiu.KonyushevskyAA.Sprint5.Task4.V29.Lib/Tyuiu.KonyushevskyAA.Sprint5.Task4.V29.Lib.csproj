@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AFB74FE6-4C16-4DC0-8F3F-EBB2883E0F12}</ProjectGuid>
+    <ProjectGuid>{665EE189-848C-4C6A-A98A-93DAD1AF2DA1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Tyuiu.KonyushevskyAA.Sprint5.Task3.V7.Lib</RootNamespace>
-    <AssemblyName>Tyuiu.KonyushevskyAA.Sprint5.Task3.V7.Lib</AssemblyName>
+    <RootNamespace>Tyuiu.KonyushevskyAA.Sprint5.Task4.V29.Lib</RootNamespace>
+    <AssemblyName>Tyuiu.KonyushevskyAA.Sprint5.Task4.V29.Lib</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -39,8 +39,7 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
-    <Reference Include="tyuiu.cources.programming.interfaces, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
+    <Reference Include="tyuiu.cources.programming.interfaces">
       <HintPath>..\tyuiu.cources.programming.interfaces.dll</HintPath>
     </Reference>
   </ItemGroup>
